@@ -1,0 +1,23 @@
+defaults: &defaults
+  port: 10002
+  server: localhost
+  database_configuration:
+    adapter: mysql
+    encoding:
+    reconnect:
+    database: daemon_database
+    pool: 5
+    username: root
+    password: root
+
+development:
+  <<: *defaults
+
+staging:
+  <<: *defaults
+
+test:
+  <<: *defaults
+
+production:
+  <<: *defaults

@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby1.8
+#
+# Stub executable for my_em_daemon
+#
+
+require File.expand_path('../../config/environment',  __FILE__)
+
+DaemonKit::Application.exec( DAEMON_ROOT + '/libexec/my_em_daemon-daemon.rb' )

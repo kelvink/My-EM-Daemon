@@ -1,0 +1,128 @@
+# Logfile created on Wed Dec 21 23:24:10 +0530 2011 by logger.rb/22285
+2011-12-21 23:24:10.238081 my_em_daemon(4508) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2011-12-21 23:24:10.238268 my_em_daemon(4508) [INFO] [daemon-kit]: Setting up trap for USR1
+2011-12-21 23:24:10.238421 my_em_daemon(4508) [INFO] [daemon-kit]: Setting up trap for USR2
+2011-12-21 23:24:10.238575 my_em_daemon(4508) [INFO] [daemon-kit]: Setting up trap for HUP
+2011-12-21 23:24:10.238721 my_em_daemon(4508) [INFO] [daemon-kit]: Setting up trap for INT
+2011-12-21 23:24:10.238857 my_em_daemon(4508) [INFO] [daemon-kit]: Setting up trap for TERM
+2011-12-21 23:24:10.239929 my_em_daemon(4508) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booted, now running my_em_daemon
+2011-12-21 23:24:10.240075 my_em_daemon(4508) [INFO] my_em_daemon-daemon.rb:16: I'm running
+2011-12-21 23:24:15.353018 my_em_daemon(4508) [INFO] [daemon-kit]: Running signal traps for INT
+2011-12-21 23:24:15.353449 my_em_daemon(4508) [INFO] [daemon-kit]: Running shutdown hooks
+2011-12-21 23:24:15.353787 my_em_daemon(4508) [WARN] [daemon-kit]: Shutting down my_em_daemon
+2011-12-21 23:26:35.812303 my_em_daemon(4531) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2011-12-21 23:26:35.812563 my_em_daemon(4531) [INFO] [daemon-kit]: Setting up trap for USR1
+2011-12-21 23:26:35.812751 my_em_daemon(4531) [INFO] [daemon-kit]: Setting up trap for USR2
+2011-12-21 23:26:35.812915 my_em_daemon(4531) [INFO] [daemon-kit]: Setting up trap for HUP
+2011-12-21 23:26:35.813072 my_em_daemon(4531) [INFO] [daemon-kit]: Setting up trap for INT
+2011-12-21 23:26:35.813207 my_em_daemon(4531) [INFO] [daemon-kit]: Setting up trap for TERM
+2011-12-21 23:26:35.831904 my_em_daemon(4531) [INFO] my_em_daemon.rb:6: Listening on port 10002
+2011-12-21 23:28:08.680953 my_em_daemon(4531) [INFO] [daemon-kit]: Running signal traps for INT
+2011-12-21 23:28:08.681230 my_em_daemon(4531) [INFO] [daemon-kit]: Running shutdown hooks
+2011-12-21 23:28:08.681901 my_em_daemon(4531) [WARN] [daemon-kit]: Shutting down my_em_daemon
+2011-12-21 23:28:11.140245 my_em_daemon(4539) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2011-12-21 23:28:11.140475 my_em_daemon(4539) [INFO] [daemon-kit]: Setting up trap for USR1
+2011-12-21 23:28:11.140627 my_em_daemon(4539) [INFO] [daemon-kit]: Setting up trap for USR2
+2011-12-21 23:28:11.140794 my_em_daemon(4539) [INFO] [daemon-kit]: Setting up trap for HUP
+2011-12-21 23:28:11.140952 my_em_daemon(4539) [INFO] [daemon-kit]: Setting up trap for INT
+2011-12-21 23:28:11.141087 my_em_daemon(4539) [INFO] [daemon-kit]: Setting up trap for TERM
+2011-12-21 23:28:11.141550 my_em_daemon(4539) [INFO] my_em_daemon.rb:7: Listening on port 10002
+2011-12-21 23:30:30.796137 my_em_daemon(4539) [INFO] [daemon-kit]: Running signal traps for INT
+2011-12-21 23:30:30.796609 my_em_daemon(4539) [INFO] [daemon-kit]: Running shutdown hooks
+2011-12-21 23:30:30.797897 my_em_daemon(4539) [WARN] [daemon-kit]: Shutting down my_em_daemon
+2011-12-21 23:30:33.377584 my_em_daemon(4545) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2011-12-21 23:30:33.377817 my_em_daemon(4545) [INFO] [daemon-kit]: Setting up trap for USR1
+2011-12-21 23:30:33.377969 my_em_daemon(4545) [INFO] [daemon-kit]: Setting up trap for USR2
+2011-12-21 23:30:33.378121 my_em_daemon(4545) [INFO] [daemon-kit]: Setting up trap for HUP
+2011-12-21 23:30:33.378266 my_em_daemon(4545) [INFO] [daemon-kit]: Setting up trap for INT
+2011-12-21 23:30:33.378402 my_em_daemon(4545) [INFO] [daemon-kit]: Setting up trap for TERM
+2011-12-21 23:30:33.378858 my_em_daemon(4545) [INFO] my_em_daemon.rb:7: Listening on port 10002
+2011-12-21 23:30:38.612925 my_em_daemon(4545) [INFO] my_server.rb:8: Got query_string
+2011-12-21 23:31:54.448663 my_em_daemon(4545) [INFO] my_server.rb:8: Got query_string
+2011-12-21 23:31:54.494724 my_em_daemon(4545) [INFO] my_server.rb:8: Got query_string
+2011-12-21 23:34:33.936751 my_em_daemon(4545) [INFO] my_server.rb:8: Got query_string
+2011-12-21 23:34:33.973429 my_em_daemon(4545) [INFO] my_server.rb:8: Got query_string
+2011-12-21 23:34:41.704136 my_em_daemon(4545) [INFO] [daemon-kit]: Running signal traps for INT
+2011-12-21 23:34:41.704605 my_em_daemon(4545) [INFO] [daemon-kit]: Running shutdown hooks
+2011-12-21 23:34:41.705909 my_em_daemon(4545) [WARN] [daemon-kit]: Shutting down my_em_daemon
+2011-12-21 23:34:44.320164 my_em_daemon(4568) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2011-12-21 23:34:44.320397 my_em_daemon(4568) [INFO] [daemon-kit]: Setting up trap for USR1
+2011-12-21 23:34:44.320550 my_em_daemon(4568) [INFO] [daemon-kit]: Setting up trap for USR2
+2011-12-21 23:34:44.320690 my_em_daemon(4568) [INFO] [daemon-kit]: Setting up trap for HUP
+2011-12-21 23:34:44.320888 my_em_daemon(4568) [INFO] [daemon-kit]: Setting up trap for INT
+2011-12-21 23:34:44.321042 my_em_daemon(4568) [INFO] [daemon-kit]: Setting up trap for TERM
+2011-12-21 23:34:44.321518 my_em_daemon(4568) [INFO] my_em_daemon.rb:7: Listening on port 10002
+2011-12-21 23:36:40.520159 my_em_daemon(4568) [INFO] [daemon-kit]: Running signal traps for INT
+2011-12-21 23:36:40.520633 my_em_daemon(4568) [INFO] [daemon-kit]: Running shutdown hooks
+2011-12-21 23:36:40.521931 my_em_daemon(4568) [WARN] [daemon-kit]: Shutting down my_em_daemon
+2011-12-21 23:36:42.771384 my_em_daemon(4574) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2011-12-21 23:36:42.771618 my_em_daemon(4574) [INFO] [daemon-kit]: Setting up trap for USR1
+2011-12-21 23:36:42.771788 my_em_daemon(4574) [INFO] [daemon-kit]: Setting up trap for USR2
+2011-12-21 23:36:42.771948 my_em_daemon(4574) [INFO] [daemon-kit]: Setting up trap for HUP
+2011-12-21 23:36:42.772091 my_em_daemon(4574) [INFO] [daemon-kit]: Setting up trap for INT
+2011-12-21 23:36:42.772227 my_em_daemon(4574) [INFO] [daemon-kit]: Setting up trap for TERM
+2011-12-21 23:36:42.772712 my_em_daemon(4574) [INFO] my_em_daemon.rb:7: Listening on port 10002
+2011-12-21 23:36:56.587036 my_em_daemon(4574) [INFO] my_server.rb:10: Got query_string /get-request
+2011-12-21 23:36:56.587415 my_em_daemon(4574) [INFO] my_server.rb:11: Got query_string GET
+2011-12-21 23:38:05.36078 my_em_daemon(4574) [INFO] [daemon-kit]: Running signal traps for INT
+2011-12-21 23:38:05.36553 my_em_daemon(4574) [INFO] [daemon-kit]: Running shutdown hooks
+2011-12-21 23:38:05.37846 my_em_daemon(4574) [WARN] [daemon-kit]: Shutting down my_em_daemon
+2011-12-21 23:38:07.176518 my_em_daemon(4580) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2011-12-21 23:38:07.176813 my_em_daemon(4580) [INFO] [daemon-kit]: Setting up trap for USR1
+2011-12-21 23:38:07.176990 my_em_daemon(4580) [INFO] [daemon-kit]: Setting up trap for USR2
+2011-12-21 23:38:07.177141 my_em_daemon(4580) [INFO] [daemon-kit]: Setting up trap for HUP
+2011-12-21 23:38:07.177286 my_em_daemon(4580) [INFO] [daemon-kit]: Setting up trap for INT
+2011-12-21 23:38:07.177433 my_em_daemon(4580) [INFO] [daemon-kit]: Setting up trap for TERM
+2011-12-21 23:38:07.177941 my_em_daemon(4580) [INFO] my_em_daemon.rb:7: Listening on port 10002
+2011-12-21 23:38:12.414920 my_em_daemon(4580) [INFO] my_server.rb:10: Got query_string /get-request
+2011-12-21 23:38:12.415605 my_em_daemon(4580) [INFO] my_server.rb:11: Got query_string GET
+2011-12-21 23:40:06.520092 my_em_daemon(4580) [INFO] [daemon-kit]: Running signal traps for INT
+2011-12-21 23:40:06.520568 my_em_daemon(4580) [INFO] [daemon-kit]: Running shutdown hooks
+2011-12-21 23:40:06.521874 my_em_daemon(4580) [WARN] [daemon-kit]: Shutting down my_em_daemon
+2011-12-21 23:40:30.426042 my_em_daemon(4603) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2011-12-21 23:40:30.426270 my_em_daemon(4603) [INFO] [daemon-kit]: Setting up trap for USR1
+2011-12-21 23:40:30.426418 my_em_daemon(4603) [INFO] [daemon-kit]: Setting up trap for USR2
+2011-12-21 23:40:30.426560 my_em_daemon(4603) [INFO] [daemon-kit]: Setting up trap for HUP
+2011-12-21 23:40:30.426703 my_em_daemon(4603) [INFO] [daemon-kit]: Setting up trap for INT
+2011-12-21 23:40:30.426838 my_em_daemon(4603) [INFO] [daemon-kit]: Setting up trap for TERM
+2011-12-21 23:40:30.427453 my_em_daemon(4603) [INFO] my_em_daemon.rb:7: Listening on port 10002
+2011-12-21 23:40:36.117189 my_em_daemon(4603) [INFO] my_server.rb:10: Got query_string /get-request
+2011-12-21 23:40:36.118006 my_em_daemon(4603) [INFO] my_server.rb:11: Got query_string GET
+2011-12-21 23:40:36.118956 my_em_daemon(4603) [INFO] my_server.rb:19: Got query_string
+2011-12-21 23:40:36.148931 my_em_daemon(4603) [INFO] my_server.rb:10: Got query_string /favicon.ico
+2011-12-21 23:40:36.149289 my_em_daemon(4603) [INFO] my_server.rb:11: Got query_string GET
+2011-12-21 23:40:49.165135 my_em_daemon(4603) [INFO] [daemon-kit]: Running signal traps for INT
+2011-12-21 23:40:49.165600 my_em_daemon(4603) [INFO] [daemon-kit]: Running shutdown hooks
+2011-12-21 23:40:49.166986 my_em_daemon(4603) [WARN] [daemon-kit]: Shutting down my_em_daemon
+2011-12-21 23:40:52.100366 my_em_daemon(4614) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2011-12-21 23:40:52.100596 my_em_daemon(4614) [INFO] [daemon-kit]: Setting up trap for USR1
+2011-12-21 23:40:52.100786 my_em_daemon(4614) [INFO] [daemon-kit]: Setting up trap for USR2
+2011-12-21 23:40:52.100948 my_em_daemon(4614) [INFO] [daemon-kit]: Setting up trap for HUP
+2011-12-21 23:40:52.101108 my_em_daemon(4614) [INFO] [daemon-kit]: Setting up trap for INT
+2011-12-21 23:40:52.101261 my_em_daemon(4614) [INFO] [daemon-kit]: Setting up trap for TERM
+2011-12-21 23:40:52.101752 my_em_daemon(4614) [INFO] my_em_daemon.rb:7: Listening on port 10002
+2011-12-21 23:40:57.316950 my_em_daemon(4614) [INFO] my_server.rb:10: Got query_string /get-request
+2011-12-21 23:40:57.317434 my_em_daemon(4614) [INFO] my_server.rb:11: Got query_string GET
+2011-12-21 23:40:57.317681 my_em_daemon(4614) [INFO] my_server.rb:19: Got query_string data=testdata
+2011-12-21 23:40:57.388184 my_em_daemon(4614) [INFO] my_server.rb:10: Got query_string /favicon.ico
+2011-12-21 23:40:57.388518 my_em_daemon(4614) [INFO] my_server.rb:11: Got query_string GET
+2011-12-21 23:41:00.466889 my_em_daemon(4614) [INFO] my_server.rb:10: Got query_string /get-request
+2011-12-21 23:41:00.467491 my_em_daemon(4614) [INFO] my_server.rb:11: Got query_string GET
+2011-12-21 23:41:00.467952 my_em_daemon(4614) [INFO] my_server.rb:19: Got query_string data=testdata
+2011-12-21 23:41:00.510239 my_em_daemon(4614) [INFO] my_server.rb:10: Got query_string /favicon.ico
+2011-12-21 23:41:00.510560 my_em_daemon(4614) [INFO] my_server.rb:11: Got query_string GET
+2011-12-21 23:41:52.496192 my_em_daemon(4614) [INFO] [daemon-kit]: Running signal traps for INT
+2011-12-21 23:41:52.496671 my_em_daemon(4614) [INFO] [daemon-kit]: Running shutdown hooks
+2011-12-21 23:41:52.498059 my_em_daemon(4614) [WARN] [daemon-kit]: Shutting down my_em_daemon
+2011-12-21 23:41:54.786697 my_em_daemon(4629) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2011-12-21 23:41:54.787047 my_em_daemon(4629) [INFO] [daemon-kit]: Setting up trap for USR1
+2011-12-21 23:41:54.787198 my_em_daemon(4629) [INFO] [daemon-kit]: Setting up trap for USR2
+2011-12-21 23:41:54.787341 my_em_daemon(4629) [INFO] [daemon-kit]: Setting up trap for HUP
+2011-12-21 23:41:54.787483 my_em_daemon(4629) [INFO] [daemon-kit]: Setting up trap for INT
+2011-12-21 23:41:54.787618 my_em_daemon(4629) [INFO] [daemon-kit]: Setting up trap for TERM
+2011-12-21 23:41:54.788160 my_em_daemon(4629) [INFO] my_em_daemon.rb:7: Listening on port 10002
+2011-12-21 23:41:57.456457 my_em_daemon(4629) [INFO] my_server.rb:17: Got query_string data=testdata
+2011-12-21 23:42:17.559307 my_em_daemon(4629) [INFO] my_server.rb:17: Got query_string data=testdata&data1=testdata1
+2011-12-21 23:43:22.232106 my_em_daemon(4629) [INFO] [daemon-kit]: Running signal traps for INT
+2011-12-21 23:43:22.232572 my_em_daemon(4629) [INFO] [daemon-kit]: Running shutdown hooks
+2011-12-21 23:43:22.233964 my_em_daemon(4629) [WARN] [daemon-kit]: Shutting down my_em_daemon
